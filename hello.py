@@ -1,5 +1,5 @@
-name = raw_input("what is your name?")
+name = raw_input("What is your name? ")
 
-print "hello world"
+print "Hello world"
 print "line 2!"
 print name
